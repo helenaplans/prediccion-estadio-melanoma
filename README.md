@@ -59,7 +59,7 @@ Se han trabajado tres notebooks principales:
 
 3. **Modelado Supervisado**
     - Entrenamiento y comparación de modelos (Logistic Regression, Random Forest, Decision Tree, XGBoost, etc.) usando PyCaret.
-    - Predicción: estadio del melanoma (avanzado/no avanzado).
+    - Predicción: estadio del melanoma (agresivo/no agresivo).
     - Métricas principales: F1-score, matriz de confusión, classification report.
 
 4. **Optimización**
